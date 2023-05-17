@@ -13,6 +13,8 @@
   
 
 <details>
+  
+  <p This detail page was created by: wervlad>
 <p align="center">
   <a href="https://github.com/ThatCoinflip">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThatCoinflip&theme=transparent" />
