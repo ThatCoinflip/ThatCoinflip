@@ -3,6 +3,7 @@
   - I develop Games using Unity
 
   - I did not steal my code from @TS-Tobi 
+  -  This detail page was created by: wervlad, not me :3
  
  
  ## Over me:
@@ -13,8 +14,6 @@
   
 
 <details>
-  
-  <p This detail page was created by: wervlad>
 <p align="center">
   <a href="https://github.com/ThatCoinflip">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThatCoinflip&theme=transparent" />
