@@ -8,10 +8,9 @@
  ## Over me:
   -I use she/they/he pronouns
   
- 
- 
-## Stats
-<--- ![](https://github-readme-stats.vercel.app/api?username=ThatCoinflip&show_icons=true&theme=transparent) --->
+  
+  
+  
 
 <details>
 <p align="center">
