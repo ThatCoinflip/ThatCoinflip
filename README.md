@@ -3,4 +3,4 @@
   - I develop Games using Unity
  
 ## Stats
-![](https://github-readme-stats.vercel.app/api?username=ThatCoinflip&show_icons=true&theme=Purple)
+![](https://github-readme-stats.vercel.app/api?username=ThatCoinflip&show_icons=true&theme=purple)
